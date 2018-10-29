@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+
+<html >
+<head>
+<title>Lil Tecno</title>
+</head>
+<body>
+<table>
+	<tr>
+	<td>Producto</td>
+	<td>Foto</td>
+	<td>Precio</td>
+	<td>Comprar</td>
+	</tr>
+	<tr>
+	<td>Bocina bt</td>
+	<td><img src="http://www.thesoft.com.mx/img/content/prods/BOCINA%20LOGITECH%20X100%20BLUETOOTH%20NARANJA-AZUL.jpg"/></td>
+	<td>$0.10</td>
+	<td><form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
+<input type="hidden" name="cmd" value="_s-xclick">
+<input type="hidden" name="hosted_button_id" value="YK43G749TZ74Y">
+<input type="image" src="https://www.paypalobjects.com/es_XC/i/btn/btn_cart_LG.gif" border="0" name="submit" alt="PayPal, la forma más segura y rápida de pagar en línea.">
+<img alt="" border="0" src="https://www.paypalobjects.com/es_XC/i/scr/pixel.gif" width="1" height="1">
+</form>
+
+</form>
+</td>
+	<tr>
+	<td>Producto</td>
+	<td>Foto</td>
+	<td>Precio</td>
+	<td>Comprar</td>
+	</tr>
+	<tr>
+	<td>USB</td>
+	<td><img src="https://s12emagst.akamaized.net/products/15/14248/images/1_150x150_gj2j.jpg"/></td>
+	<td>$0.10</td>
+	<td><form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+<input type="hidden" name="cmd" value="_s-xclick">
+<input type="hidden" name="hosted_button_id" value="Z79CBJMTER76Q">
+<input type="image" src="https://www.paypalobjects.com/es_XC/MX/i/btn/btn_buynowCC_LG.gif" border="0" name="submit" alt="PayPal, la forma más segura y rápida de pagar en línea.">
+<img alt="" border="0" src="https://www.paypalobjects.com/es_XC/i/scr/pixel.gif" width="1" height="1">
+</form>
+</td>
+<form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post" >
+<input type="hidden" name="cmd" value="_cart">
+<input type="hidden" name="business" value="V22LD87QC5Z9G">
+<input type="hidden" name="display" value="1">
+<input type="image" src="https://www.paypalobjects.com/es_XC/i/btn/btn_viewcart_LG.gif" border="0" name="submit" alt="PayPal, la forma más segura y rápida de pagar en línea.">
+<img alt="" border="0" src="https://www.paypalobjects.com/es_XC/i/scr/pixel.gif" width="1" height="1">
+</form>
